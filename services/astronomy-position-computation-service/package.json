@@ -3,6 +3,11 @@
   "version": "0.8.2",
   "type": "module",
   "description": "Pure, provenance-carrying geocentric ecliptic position computation for astronomy consumers.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/computer-systems-engineering-services-section.git",
+    "directory": "services/computer-simulation-system-services-section/services/astronomy-position-computation-service"
+  },
   "engines": {
     "node": ">=22"
   },
