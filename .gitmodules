@@ -1,0 +1,12 @@
+[submodule "holofoam"]
+	path = apps/holofoam
+	url = https://github.com/red-cup-engineering/holofoam.git
+	branch = main
+[submodule "biology-simulation-services-section"]
+	path = services/biology-simulation-services-section
+	url = https://github.com/red-cup-engineering/biology-simulation-services-section.git
+	branch = main
+[submodule "astronomy-position-computation-service"]
+	path = services/astronomy-position-computation-service
+	url = https://github.com/red-cup-engineering/astronomy-position-computation-service.git
+	branch = main
