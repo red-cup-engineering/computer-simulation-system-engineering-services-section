@@ -1,12 +1,12 @@
 {
-  "name": "@red-cup-engineering/computer-simulation-system-services-section",
+  "name": "@red-cup-engineering/computer-simulation-system-engineering-services-section",
   "version": "0.1.0",
   "type": "module",
   "description": "Groups composed computer systems that model, run, and observe simulated dynamical systems.",
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-simulation-system-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/computer-simulation-system-engineering-services-section.git"
   },
   "license": "MIT",
   "funding": {
