@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-27-computer-simulation-system-services-section-normalization",
+  "kind": "misfiled-resources-register",
+  "by": "apply-services-section-normalization",
+  "date": "2026-10-27",
+  "moved": [
+    {
+      "from": "content/requirements/farstone-ksp-atmosphere-and-drag.json",
+      "to": "data/records/service-records/requirements-management-service-records/farstone-ksp-atmosphere-and-drag.json",
+      "rule": "requirements-are-service-records",
+      "sourceSha256": "b9cc8028957fe4c7ae03b5ea74d6e1f90ae35d7a052e64857289cf28c57abb15",
+      "destinationSha256": "b9cc8028957fe4c7ae03b5ea74d6e1f90ae35d7a052e64857289cf28c57abb15",
+      "byteIdentical": true
+    },
+    {
+      "from": "content/requirements/farstone-ksp-planet-rotation.json",
+      "to": "data/records/service-records/requirements-management-service-records/farstone-ksp-planet-rotation.json",
+      "rule": "requirements-are-service-records",
+      "sourceSha256": "d5f8d631a78aa0adec7b217e165409d19c6bbf01655cadce474a3f3b96eff155",
+      "destinationSha256": "d5f8d631a78aa0adec7b217e165409d19c6bbf01655cadce474a3f3b96eff155",
+      "byteIdentical": true
+    },
+    {
+      "from": "content/requirements/holofoam-as-physics-simulation-engine.json",
+      "to": "data/records/service-records/requirements-management-service-records/holofoam-as-physics-simulation-engine.json",
+      "rule": "requirements-are-service-records",
+      "sourceSha256": "fb34a2eeb8d858e686de5d6d566dcece243f9c84e06088c908a2b3cfd2cb0282",
+      "destinationSha256": "fb34a2eeb8d858e686de5d6d566dcece243f9c84e06088c908a2b3cfd2cb0282",
+      "byteIdentical": true
+    },
+    {
+      "from": "content/requirements/holofoam-ground-contact-and-board-dynamics.json",
+      "to": "data/records/service-records/requirements-management-service-records/holofoam-ground-contact-and-board-dynamics.json",
+      "rule": "requirements-are-service-records",
+      "sourceSha256": "6d37b0f8158553746737fe1a2f7b7f826a02aa46453568ca66de09753f2076f3",
+      "destinationSha256": "6d37b0f8158553746737fe1a2f7b7f826a02aa46453568ca66de09753f2076f3",
+      "byteIdentical": true
+    }
+  ],
+  "owed": [
+    {
+      "rule": "stray-top-level",
+      "reason": "LICENSE/ is not an entry the services-section law knows; its owner decides where it belongs",
+      "directory": ".",
+      "count": 1
+    }
+  ]
+}
